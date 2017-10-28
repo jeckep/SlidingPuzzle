@@ -2,66 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff9b116e-05ce-4e7e-a0bb-1538d6a68b11" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_appengine_appengine_api_1_0_sdk_1_6_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_gwt_gwt_user_2_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_gwtquery_gwtquery_1_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_0_0_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_sources_1_0_0_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/puzzle15.iml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/SlidingPuzzle.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/SlidingPuzzle.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/WEB-INF/appengine-web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/img/error.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/img/gplus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/img/linkedin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/img/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/img/twitter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/img/warning.png" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/be/dramaix/ai/slidingpuzzle/SlidingPuzzle.gwt.xml" afterPath="$PROJECT_DIR$/src/main/java/be/dramaix/ai/slidingpuzzle/SlidingPuzzle.gwt.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/be/dramaix/ai/slidingpuzzle/client/ConfigPanel.java" afterPath="$PROJECT_DIR$/src/main/java/be/dramaix/ai/slidingpuzzle/client/ConfigPanel.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/be/dramaix/ai/slidingpuzzle/client/LoadingDialog.java" afterPath="$PROJECT_DIR$/src/main/java/be/dramaix/ai/slidingpuzzle/client/LoadingDialog.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/be/dramaix/ai/slidingpuzzle/client/LoadingDialog.ui.xml" afterPath="$PROJECT_DIR$/src/main/java/be/dramaix/ai/slidingpuzzle/client/LoadingDialog.ui.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/be/dramaix/ai/slidingpuzzle/client/MySelectors.java" afterPath="$PROJECT_DIR$/src/main/java/be/dramaix/ai/slidingpuzzle/client/MySelectors.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/be/dramaix/ai/slidingpuzzle/client/Puzzle.java" afterPath="$PROJECT_DIR$/src/main/java/be/dramaix/ai/slidingpuzzle/client/Puzzle.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/be/dramaix/ai/slidingpuzzle/client/ResultPanel.java" afterPath="$PROJECT_DIR$/src/main/java/be/dramaix/ai/slidingpuzzle/client/ResultPanel.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/be/dramaix/ai/slidingpuzzle/client/SlidingPuzzleApp.java" afterPath="$PROJECT_DIR$/src/main/java/be/dramaix/ai/slidingpuzzle/client/SlidingPuzzleApp.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/be/dramaix/ai/slidingpuzzle/client/rpc/ResolveService.java" afterPath="$PROJECT_DIR$/src/main/java/be/dramaix/ai/slidingpuzzle/client/rpc/ResolveService.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/be/dramaix/ai/slidingpuzzle/client/rpc/ResolveServiceAsync.java" afterPath="$PROJECT_DIR$/src/main/java/be/dramaix/ai/slidingpuzzle/client/rpc/ResolveServiceAsync.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/be/dramaix/ai/slidingpuzzle/server/ResolveServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/be/dramaix/ai/slidingpuzzle/server/ResolveServiceImpl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/be/dramaix/ai/slidingpuzzle/server/search/AStar.java" afterPath="$PROJECT_DIR$/src/main/java/be/dramaix/ai/slidingpuzzle/server/search/AStar.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/be/dramaix/ai/slidingpuzzle/server/search/BreadthFirstSearch.java" afterPath="$PROJECT_DIR$/src/main/java/be/dramaix/ai/slidingpuzzle/server/search/BreadthFirstSearch.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/be/dramaix/ai/slidingpuzzle/server/search/CheapestFirstSearch.java" afterPath="$PROJECT_DIR$/src/main/java/be/dramaix/ai/slidingpuzzle/server/search/CheapestFirstSearch.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/be/dramaix/ai/slidingpuzzle/server/search/GraphSearch.java" afterPath="$PROJECT_DIR$/src/main/java/be/dramaix/ai/slidingpuzzle/server/search/GraphSearch.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/be/dramaix/ai/slidingpuzzle/server/search/IDAStar.java" afterPath="$PROJECT_DIR$/src/main/java/be/dramaix/ai/slidingpuzzle/server/search/IDAStar.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/be/dramaix/ai/slidingpuzzle/server/search/SearchAlgorithm.java" afterPath="$PROJECT_DIR$/src/main/java/be/dramaix/ai/slidingpuzzle/server/search/SearchAlgorithm.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/be/dramaix/ai/slidingpuzzle/server/search/heuristic/AbstractHeuristic.java" afterPath="$PROJECT_DIR$/src/main/java/be/dramaix/ai/slidingpuzzle/server/search/heuristic/AbstractHeuristic.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/be/dramaix/ai/slidingpuzzle/server/search/heuristic/HeuristicFunction.java" afterPath="$PROJECT_DIR$/src/main/java/be/dramaix/ai/slidingpuzzle/server/search/heuristic/HeuristicFunction.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/be/dramaix/ai/slidingpuzzle/server/search/heuristic/LinearConflict.java" afterPath="$PROJECT_DIR$/src/main/java/be/dramaix/ai/slidingpuzzle/server/search/heuristic/LinearConflict.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/be/dramaix/ai/slidingpuzzle/server/search/heuristic/ManhattanDistance.java" afterPath="$PROJECT_DIR$/src/main/java/be/dramaix/ai/slidingpuzzle/server/search/heuristic/ManhattanDistance.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/be/dramaix/ai/slidingpuzzle/server/search/heuristic/PatternDatabase.java" afterPath="$PROJECT_DIR$/src/main/java/be/dramaix/ai/slidingpuzzle/server/search/heuristic/PatternDatabase.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/be/dramaix/ai/slidingpuzzle/server/search/heuristic/UseHeuristic.java" afterPath="$PROJECT_DIR$/src/main/java/be/dramaix/ai/slidingpuzzle/server/search/heuristic/UseHeuristic.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/be/dramaix/ai/slidingpuzzle/shared/Action.java" afterPath="$PROJECT_DIR$/src/main/java/be/dramaix/ai/slidingpuzzle/shared/Action.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/be/dramaix/ai/slidingpuzzle/shared/AlgorithmType.java" afterPath="$PROJECT_DIR$/src/main/java/be/dramaix/ai/slidingpuzzle/shared/AlgorithmType.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/be/dramaix/ai/slidingpuzzle/shared/HeuristicType.java" afterPath="$PROJECT_DIR$/src/main/java/be/dramaix/ai/slidingpuzzle/shared/HeuristicType.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/be/dramaix/ai/slidingpuzzle/shared/Move.java" afterPath="$PROJECT_DIR$/src/main/java/be/dramaix/ai/slidingpuzzle/shared/Move.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/be/dramaix/ai/slidingpuzzle/shared/Node.java" afterPath="$PROJECT_DIR$/src/main/java/be/dramaix/ai/slidingpuzzle/shared/Node.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/be/dramaix/ai/slidingpuzzle/shared/Path.java" afterPath="$PROJECT_DIR$/src/main/java/be/dramaix/ai/slidingpuzzle/shared/Path.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/be/dramaix/ai/slidingpuzzle/shared/PuzzleSolution.java" afterPath="$PROJECT_DIR$/src/main/java/be/dramaix/ai/slidingpuzzle/shared/PuzzleSolution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/be/dramaix/ai/slidingpuzzle/shared/State.java" afterPath="$PROJECT_DIR$/src/main/java/be/dramaix/ai/slidingpuzzle/shared/State.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/db/FIFTEEN_3_6_6_1.db" afterPath="$PROJECT_DIR$/src/main/java/db/FIFTEEN_3_6_6_1.db" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/db/FIFTEEN_3_6_6_2.db" afterPath="$PROJECT_DIR$/src/main/java/db/FIFTEEN_3_6_6_2.db" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/db/FIFTEEN_3_6_6_3.db" afterPath="$PROJECT_DIR$/src/main/java/db/FIFTEEN_3_6_6_3.db" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test/be/dramaix/ai/slidingpuzzle/SlidingPuzzleTest.java" afterPath="$PROJECT_DIR$/src/test/java/be/dramaix/ai/slidingpuzzle/SlidingPuzzleTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/client/ConfigPanel$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/client/ConfigPanel$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/client/ConfigPanel$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/client/ConfigPanel$Templates.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/client/ConfigPanel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/client/LoadingDialog$InformationPopupUiBinder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/client/LoadingDialog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/client/MySelectors.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/client/Puzzle$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/client/Puzzle$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/client/Puzzle$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/client/Puzzle$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/client/Puzzle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/client/ResultPanel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/client/SlidingPuzzleApp$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/client/SlidingPuzzleApp$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/client/SlidingPuzzleApp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/client/rpc/ResolveService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/client/rpc/ResolveServiceAsync.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/server/ResolveServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/server/search/AStar$HeuristicComparator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/server/search/AStar.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/server/search/BreadthFirstSearch.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/server/search/CheapestFirstSearch$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/server/search/CheapestFirstSearch$MinimumCostComparator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/server/search/CheapestFirstSearch.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/server/search/GraphSearch.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/server/search/IDAStar.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/server/search/SearchAlgorithm.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/server/search/heuristic/AbstractHeuristic.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/server/search/heuristic/HeuristicFunction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/server/search/heuristic/LinearConflict.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/server/search/heuristic/ManhattanDistance.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/server/search/heuristic/PatternDatabase$PatternDatabaseType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/server/search/heuristic/PatternDatabase.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/server/search/heuristic/UseHeuristic.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/shared/Action.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/shared/AlgorithmType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/shared/HeuristicType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/shared/Move$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/shared/Move.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/shared/Node.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/shared/Path.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/shared/PuzzleSolution.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/shared/State$CellLocation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/be/dramaix/ai/slidingpuzzle/shared/State.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/puzzle15-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-be.dramaix.ai.slidingpuzzle.SlidingPuzzleTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/be.dramaix.ai.slidingpuzzle.SlidingPuzzleTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/be/dramaix/ai/slidingpuzzle/SlidingPuzzleTest.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,6 +67,20 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -168,6 +179,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -270,12 +286,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1509212113753</updated>
-      <workItem from="1509212114945" duration="237000" />
+      <workItem from="1509212114945" duration="403000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="237000" />
+    <option name="totallyTimeSpent" value="403000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -284,11 +300,11 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3769671" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3769671" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -312,5 +328,15 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
